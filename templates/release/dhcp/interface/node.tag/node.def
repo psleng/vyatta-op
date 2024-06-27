@@ -1,2 +1,0 @@
-help: Release DHCP IP address lease for specified interface
-run: sudo /opt/vyatta/bin/sudo-users/vyatta-interfaces.pl --dhcp release --dev "$4"

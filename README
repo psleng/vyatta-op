@@ -1,6 +1,4 @@
-This package is legacy code. It is now in process of being rewritten.
+# NOTE
 
-See https://phabricator.vyos.net/T689 to join this effort.
-
-Read http://blog.vyos.net/new-style-operational-mode-command-definitions-are-here
-to learn about the new op mode command definitions.
+This package is deprecated and all it's content was rewritten. You can find the
+new implementation here: https://github.com/vyos/vyos-1x
